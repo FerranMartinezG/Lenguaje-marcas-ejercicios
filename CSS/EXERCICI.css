@@ -1,0 +1,47 @@
+#figure1{
+height: 150px;
+width: 150px;
+border: 1px solid black;
+}
+#figure2{
+padding-top: 20px;
+padding-left: 15px;
+height: 40px;
+width: 625px;
+border: 5px solid black;
+}
+#figure3{
+margin: 1em;
+height: 20px;
+width: 600px;
+border: 1px solid orange;
+}
+#figure4{
+padding-top: 5px;
+padding-left: 5px;
+height: 100px;
+width: 310px;
+border: 2px solid turquoise;
+border-radius: 10px;
+}
+#figure5{
+height: 20px;
+width: 625px;
+border: 1px solid black;
+}
+#figure6{
+margin-left: 5%;
+height: 20px;
+width: 592px;
+border: 1px solid black;
+}
+#figure7{
+margin-top: 1em;
+margin-left: auto;
+margin-right: auto;
+height: 150px;
+width: 150px;
+border-radius: 10px;
+border: 5px solid;
+border-color: #ccffff;
+}
